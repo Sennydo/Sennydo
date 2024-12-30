@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Looking to Learn a lot and posting my progress on Github
+
+Interested in many Disciplines in CS and out of CS
 <!--
 **Sennydo/Sennydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
